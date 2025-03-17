@@ -3,6 +3,23 @@
 ## Project Brief
 This project is an interactive emergency signaling device utilizing the M5 Stack and an IMU sensor. When an extreme tilt or impact is detected, the device activates an immediate alert mode. If the emergency mode persists beyond 10 seconds without user intervention, the device automatically transitions into an SOS signaling state, emitting the universally recognized Morse code signal (three quick flashes, three long flashes, three quick flashes) in bright green at maximum brightness. This function serves as a visual distress beacon, providing assistance in emergency or dangerous situations.
 
+## Interfaces
+
+The Moderator Interface allows emergency moderators to remotely monitor the status and location of users whose devices have activated emergency mode. Moderators receive real-time updates, including exact user coordinates upon activation, and can swiftly assess the situation.
+
+If necessary, moderators can quickly assign help or rescue resources, ensuring immediate response during critical situations. 
+Key Features: 
+
+*Real-time user location tracking upon emergency activation. 
+*Clear visualization of active emergency alerts.
+*Immediate assignment of help and rescue services.
+*Continuous status updates for effective crisis management.
+
+![Interface 1.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
+![Interface 2.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
+![Interface 3.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
+![Interface 4.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
+
 ## Project Outcome
 [Prototype Video]https://youtube.com/shorts/HaKyc20MGzE
 
