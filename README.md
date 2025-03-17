@@ -4,14 +4,15 @@
 This project is an interactive emergency signaling device utilizing the M5 Stack and an IMU sensor. When an extreme tilt or impact is detected, the device activates an immediate alert mode. If the emergency mode persists beyond 10 seconds without user intervention, the device automatically transitions into an SOS signaling state, emitting the universally recognized Morse code signal (three quick flashes, three long flashes, three quick flashes) in bright green at maximum brightness. This function serves as a visual distress beacon, providing assistance in emergency or dangerous situations.
 
 ## Project Outcome
+[YouTube Prototype Video]https://youtube.com/shorts/HaKyc20MGzE
 
 ## Flow State and Sketches
 
 ## material used
 
-* Book
+* Protopie
 * ESP-32 M5 Stack
-* Copper Tape
+* IMU sensors
 * LED Stripes
 
 ##Firmware
