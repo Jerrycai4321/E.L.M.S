@@ -18,7 +18,7 @@ Key Features:
 ![Interface 1.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Interface%201.png?raw=true)
 ![Interface 2.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Interface%202.png?raw=true)
 ![Interface 3.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Interface%203.png?raw=true)
-![Interface 4.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
+![Interface 4.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Interface%204.png?raw=true)
 
 ## Project Outcome
 [Prototype Video]https://youtube.com/shorts/HaKyc20MGzE
