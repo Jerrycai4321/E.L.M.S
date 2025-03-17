@@ -32,7 +32,7 @@ Key Features:
 * IMU sensors
 * LED Stripes
 
-##Firmware
+## Firmware
 The IMU unit continually measures acceleration values. When significant Y-axis acceleration (beyond ±3.0 units) is detected, emergency mode is activated:
 ```
 imu_val = imu.get_accelerometer()
