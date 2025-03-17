@@ -7,7 +7,7 @@ This project is an interactive emergency signaling device utilizing the M5 Stack
 [Prototype Video]https://youtube.com/shorts/HaKyc20MGzE
 
 ## Flow State and Sketches
-![Flowstate.png]https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true
+![Flowstate.png](https://github.com/Jerrycai4321/E.L.M.S/blob/main/Flowstate.png?raw=true)
 ## material used
 
 * Protopie
